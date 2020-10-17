@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/react-hw-19/static/css/main.a12fc2e5.chunk.css",
+    "main.js": "/react-hw-19/static/js/main.f9d06b0b.chunk.js",
+    "main.js.map": "/react-hw-19/static/js/main.f9d06b0b.chunk.js.map",
+    "runtime-main.js": "/react-hw-19/static/js/runtime-main.61002cc2.js",
+    "runtime-main.js.map": "/react-hw-19/static/js/runtime-main.61002cc2.js.map",
+    "static/js/2.2a24370a.chunk.js": "/react-hw-19/static/js/2.2a24370a.chunk.js",
+    "static/js/2.2a24370a.chunk.js.map": "/react-hw-19/static/js/2.2a24370a.chunk.js.map",
+    "index.html": "/react-hw-19/index.html",
+    "precache-manifest.3959944dbef7927cec40716a65f9fb51.js": "/react-hw-19/precache-manifest.3959944dbef7927cec40716a65f9fb51.js",
+    "service-worker.js": "/react-hw-19/service-worker.js",
+    "static/css/main.a12fc2e5.chunk.css.map": "/react-hw-19/static/css/main.a12fc2e5.chunk.css.map",
+    "static/js/2.2a24370a.chunk.js.LICENSE.txt": "/react-hw-19/static/js/2.2a24370a.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/react-hw-19/static/media/1.d28525f9.jpg",
+    "static/media/2.jpg": "/react-hw-19/static/media/2.10942216.jpg",
+    "static/media/3.jpg": "/react-hw-19/static/media/3.97d0bb53.jpg",
+    "static/media/4.jpg": "/react-hw-19/static/media/4.8043316b.jpg",
+    "static/media/5.jpg": "/react-hw-19/static/media/5.549b3b19.jpg",
+    "static/media/6.jpg": "/react-hw-19/static/media/6.22a888ec.jpg",
+    "static/media/anonymous.svg": "/react-hw-19/static/media/anonymous.e5c28124.svg",
+    "static/media/comments.svg": "/react-hw-19/static/media/comments.b89805e1.svg",
+    "static/media/post.css": "/react-hw-19/static/media/share_hover.a8433b84.svg",
+    "static/media/down-arrow.svg": "/react-hw-19/static/media/down-arrow.7478f015.svg",
+    "static/media/female.svg": "/react-hw-19/static/media/female.07ea4eab.svg",
+    "static/media/like.svg": "/react-hw-19/static/media/like.7746f5e4.svg",
+    "static/media/male.svg": "/react-hw-19/static/media/male.037e22c9.svg",
+    "static/media/send.svg": "/react-hw-19/static/media/send.8b6117db.svg",
+    "static/media/share.svg": "/react-hw-19/static/media/share.bd40ebf4.svg",
+    "static/media/verified.svg": "/react-hw-19/static/media/verified.c9a1728d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61002cc2.js",
+    "static/js/2.2a24370a.chunk.js",
+    "static/css/main.a12fc2e5.chunk.css",
+    "static/js/main.f9d06b0b.chunk.js"
+  ]
+}
