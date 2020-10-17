@@ -1,0 +1,100 @@
+.post {
+    background: #334352;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 0 rgba(0,0,0,0.5);
+    color: #fff;
+    margin: 20px auto;
+    max-height: 700px;
+    max-width: 700px;
+}
+.post__wrapper {
+    display: flex;
+    padding: 20px;
+}
+
+.post__item {
+    margin-right: 20px;
+    width: 100%;
+}
+.post__item:first-child { width: 15%; }
+.post__item:last-child { margin-right: 0; }
+
+.post__img {
+    border-radius: 50%;
+    box-shadow: 5px 5px 5px 0 rgba(0,0,0,0.5);
+    max-width: 75px;
+}
+
+.blocks-info {
+    display: flex;
+    justify-content: space-between;
+}
+.blocks-info__item {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.blocks-info__name {
+    font-size: 28px;
+    margin-right: 10px;
+}
+
+.blocks-info__verified {
+    max-width: 20px;
+    margin-right: 10px;
+}
+.blocks-info__nickname {
+    margin-right: 10px;
+    color: #9e9e9e;
+}
+.blocks-info__date {
+    color: #9e9e9e;
+    position: relative;
+}
+.blocks-info__date:before {
+    content: '.';
+    position: absolute;
+    top: -4px;
+    left: -6px;
+}
+
+.arrow-down {
+    height: 20px;
+    max-width: 20px;
+    margin: 10px 20px 10px 10px;
+    opacity: 0.75;
+    cursor: pointer;
+    transition:  linear .15s;
+}
+.arrow-down:hover { opacity: 0.4; }
+
+.content { margin-top: -10px; }
+
+.content__img {
+    border-radius: 10px;
+    max-width: 560px;
+    max-height: 350px;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.icon__item {
+    align-items: center;
+    display: flex;
+    cursor: pointer;
+}
+.icon__item:hover { color: #9797ff; }
+.icon__item:hover .comments__img { background-image: url("images/comments_hover.svg"); }
+.icon__item:hover .share__img { background-image: url("images/share_hover.svg"); }
+.icon__item:hover .like__img { background-image: url("images/heart.svg"); }
+.icon__item:hover .send__img { background-image: url("images/send_hover.svg"); }
+
+.icon__img {
+    max-width: 20px;
+    margin-right: 10px;
+}

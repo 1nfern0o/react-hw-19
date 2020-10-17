@@ -1,0 +1,22 @@
+.photo {}
+.photo__wrapper {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+.photo__item {
+    display: flex;
+    margin-bottom: 20px;
+}
+.photo__item:last-child {
+    margin-bottom: 0;
+}
+.photo__images {
+    width: 450px;
+    max-width: 600px;
+    max-height: 600px;
+    margin-right: 20px;
+}
+
+.photo__images:last-child { margin-right: 0; }
