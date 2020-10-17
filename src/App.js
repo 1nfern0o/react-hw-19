@@ -1,6 +1,6 @@
 import React from 'react';
 import "./App.css"
-import {BrowserRouter as Router, Switch, Route, Redirect, NavLink} from "react-router-dom";
+import {HashRouter as Router, Switch, Route, Redirect, NavLink} from "react-router-dom";
 import Posts from "./Components/Post/post";
 import Contacts from "./Components/Contacts/Contacts";
 import Photo from "./Components/Photo/photo";
